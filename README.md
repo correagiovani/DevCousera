@@ -1,2 +1,2 @@
-# DevCousera
+# DevCoursera
 Curso de Desenvolvimento Cousera
