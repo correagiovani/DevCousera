@@ -1,2 +1,2 @@
 # DevCoursera
-Curso de Desenvolvimento Cousera
+Curso de Desenvolvimento Coursera
